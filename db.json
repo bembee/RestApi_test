@@ -1,0 +1,24 @@
+{
+  "konyvek": [
+    {
+      "id": 1,
+      "nev": "Rejtő Jenő",
+      "cim": "Az elveszett crikáló",
+      "ar": 1234,
+      "kategoria": "Regény"
+    },
+    {
+      "id": 2,
+      "nev": "Laczkfi János",
+      "cim": "Apám kakasa",
+      "ar": 4639,
+      "kategoria": "vers"
+    }
+  ],
+  "szerzo": [
+    {
+      "nev": "Laczkfi János",
+      "szulev": 1969
+    }
+  ]
+}
