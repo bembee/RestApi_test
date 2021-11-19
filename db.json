@@ -1,11 +1,11 @@
 {
   "konyvek": [
     {
-      "id": 1,
-      "nev": "Rejtő Jenő",
-      "cim": "Az elveszett crikáló",
-      "ar": 1234,
-      "kategoria": "Regény"
+      "nev": "József Attila",
+      "cim": "Téli éjszaka",
+      "ar": "4614",
+      "kategoria": "vers",
+      "id": 1
     },
     {
       "id": 2,
@@ -13,6 +13,27 @@
       "cim": "Apám kakasa",
       "ar": 4639,
       "kategoria": "vers"
+    },
+    {
+      "id": 3,
+      "nev": "Rejtő Jenő",
+      "cim": "Piszkos Fred, a kapitány",
+      "ar": 2639,
+      "kategoria": "regény"
+    },
+    {
+      "id": 5,
+      "nev": "Csukás István",
+      "cim": "A radírpók",
+      "ar": 4276,
+      "kategoria": "regény"
+    },
+    {
+      "id": 6,
+      "nev": "Csukás István",
+      "cim": "A civakodó cipőikrek",
+      "ar": 6639,
+      "kategoria": "regény"
     }
   ],
   "szerzo": [
